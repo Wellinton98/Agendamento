@@ -1,0 +1,6 @@
+{
+  "name": "AgendaFácil — Sistema de Agendamento Online",
+  "description": "Sistema completo de agendamento online com página pública por slug, cálculo dinâmico de horários livres, bloqueio transacional de conflitos, painel do dono e lembretes por WhatsApp e e-mail.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
